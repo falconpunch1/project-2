@@ -37,7 +37,7 @@ body {
 
 
 @font-face {
-    font-family: "MS Gothic";
+    font-family: "MS Gothic", sans-serif;
     src: local("fonts/MS Gothic.ttf");
     src: url("fonts/FreeSerif.ttf");
 }
