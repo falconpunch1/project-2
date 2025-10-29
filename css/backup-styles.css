@@ -24,7 +24,7 @@ body {
     background-size: contain;
     font-size: 1.25rem;
     padding: 2vh;
-    font-family: "MS Gothic", sans-serif;
+    font-family: "MS Gothic";
 }
 
 
@@ -37,7 +37,7 @@ body {
 
 
 @font-face {
-    font-family: "MS Gothic", sans-serif;
+    font-family: "MS Gothic";
     src: url("fonts/MS Gothic.ttf");
     src: url("fonts/FreeSerif.ttf");
 }
