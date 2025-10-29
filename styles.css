@@ -1,0 +1,33 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #efefc8;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+body {
+    background-color: cadetblue;
+    background-size: contain;
+    font-family: "MS Gothic", sans-serif;
+    font-size: 1.25rem;
+    padding: 2vh;
+}
+
+
+#page-wrapper {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #ffffcc;
+    padding: 2.5%;
+}
